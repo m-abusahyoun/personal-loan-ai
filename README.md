@@ -28,3 +28,7 @@ Seeds are fixed for NumPy, TensorFlow, splitters and K-Means. Package versions u
 
 ## Corrections
 Scaling now occurs after splitting and within KNN CV. KNN tuning no longer reads test labels. ANN validation is explicit and has training-only preprocessing. The final clustering count now follows the measured silhouette result instead of conflicting with it. Old metrics were replaced by rerun results.
+
+
+## Original coursework
+The exact original notebooks and supplied loan dataset are preserved in the separate complete project backup. This repository contains the corrected portfolio edition.
