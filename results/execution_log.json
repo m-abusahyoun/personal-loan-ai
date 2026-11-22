@@ -1,0 +1,8 @@
+[
+  {
+    "notebook": "personal_loan_ai.ipynb",
+    "status": "executed",
+    "seconds": 19.1,
+    "execution": "Sequential IPython cells; fresh namespace per notebook; figures captured; joblib threading backend"
+  }
+]
